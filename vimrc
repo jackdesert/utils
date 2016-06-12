@@ -21,7 +21,7 @@ autocmd FileType golang set autoindent shiftwidth=2 softtabstop=2
 " /usr/share/vim/vimcurrent/debian.vim) and sourced by the call to :runtime
 " you can find below.  If you wish to change any of those settings, you should
 " do it in this file (/etc/vim/vimrc), since debian.vim will be overwritten
-" everytime an upgrade of the vim packages is performed.  It is recommended to
+" every time an upgrade of the vim packages is performed.  It is recommended to
 " make changes after sourcing debian.vim since it alters the value of the
 " 'compatible' option.
 
